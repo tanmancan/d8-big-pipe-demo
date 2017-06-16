@@ -1,0 +1,14 @@
+{
+  "name": "drupal/big_pipe_demonstration",
+  "type": "drupal-module",
+  "description": "Big Pipe demo module",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/big_pipe_demonstration",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/big_pipe_demonstration",
+    "source": "http://cgit.drupalcode.org/big_pipe_demonstration"
+  },
+  "require": { }
+}

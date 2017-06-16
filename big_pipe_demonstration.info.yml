@@ -1,0 +1,9 @@
+name: Big Pipe Demonstration
+type: module
+description: Big Pipe demo module
+core: 8.x
+package: Custom
+
+dependencies:
+  - drupal:big_pipe
+  - drupal:block
