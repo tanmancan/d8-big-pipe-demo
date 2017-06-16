@@ -1,5 +1,7 @@
 # Big Pipe Demo
 
+![side by side](demo.gif)
+
 ## Install
 
 Install `big_pipe_demonstration` & `big_pipe` module
@@ -13,6 +15,7 @@ Refresh the page to see Big Pipe in action!
 ### Disabling big pipe
 
 Add `?big_pipe=off` as a query parameter to disabled big pipe.
+
 
 ---
 
